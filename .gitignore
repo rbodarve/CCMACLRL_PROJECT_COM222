@@ -3,3 +3,5 @@
 datapack/**/*.csv
 
 output/metrics/*.csv
+.vscode/
+.claude/
